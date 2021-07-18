@@ -1,0 +1,15 @@
+How to Grab Token in discord by TokenBot69.
+Advantages
+-You can Grab any discord account's tokens from this script.
+-It is easy to use.
+-Donot harm any one.
+
+How to use it ?
+-At first, Download the python script coded by me in a month.
+-After download click in the file then open with python.
+-Then starting grabbing tokens with te webhook
+
+How to login with token ?
+-I will upload in my next course video 
+
+Thank You !
